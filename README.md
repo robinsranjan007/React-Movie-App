@@ -1,2 +1,3 @@
 # React-Movie-App
-This is my mid-sem project which entirely based on React.
+it's an front end project but I will mock the database using json server
+
